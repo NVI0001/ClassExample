@@ -3,6 +3,10 @@
 This is my first time editing a readme. 
 It demonstrates structures, file trees, linking and editing a README.md file
 
+## DOI
+
+[![DOI](https://zenodo.org/badge/924392893.svg)](https://doi.org/10.5281/zenodo.14957149)
+
 ## 1. links to analysis
 
 These are the links to the analysis file  on Github (.md). The .Rmd files and .html rendered files also available
@@ -55,7 +59,7 @@ fs::dir_tree()
 - Next go to your settings and click on github to connect
 - Flip the switch of your repository of interest, by scrolling down and turning on
 - Then reload page
-- Go to github, to the repository and click release
+- Go to github, to the repository and click on create a new release
 - You can also click on tag and a description
 - Go back to zenodo and refresh to get badge
-- When you click on the badge, you will see a zenodo markdown doi that you can include in your repository
+- When you click on the badge, you will see a zenodo markdown doi that you can include in your readme repository
